@@ -39,7 +39,7 @@ header{
     color: #333;
     font-size: 2em;
     opacity: 0;
-    transition: all 1s;
+    transition: all 2s;
 }
 
 .name{
