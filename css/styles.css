@@ -322,7 +322,7 @@ header{
 .parallax{
     width: 100%;
     background-image: url(../img/p5.jpg);
-    min-height: 200px;
+    min-height: 250px;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -511,6 +511,9 @@ footer{
     .titulo{
         font-size: 1.7em;
     }
+    .parallax{
+        min-height:300px;
+    }
     footer{
         display: flex;
         justify-content: space-between;
@@ -585,7 +588,7 @@ footer{
         margin: 20px 0px;
     }
     .parallax{
-        height: 300px;
+        min-height: 350px;
     }
 
     .info__tortas h2{
